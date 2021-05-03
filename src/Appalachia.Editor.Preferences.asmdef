@@ -1,0 +1,14 @@
+{
+	"name": "Appalachia.Editor.Preferences",
+    "rootNamespace": "Appalachia.Editor.Preferences",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
